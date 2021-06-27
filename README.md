@@ -1,6 +1,7 @@
 # piano tiles bot
 
 works only on https://www.agame.com/game/magic-piano-tiles
+
 hold Q to pause the bot
 
 
